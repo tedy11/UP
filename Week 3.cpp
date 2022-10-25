@@ -117,7 +117,7 @@ int main()
 
 
 
-     //TASK 7   НЕДОВЪРШЕНА
+     //TASK 7   
 
      //int n, m, k;
      //cout << "n:";
